@@ -51,3 +51,7 @@ Before running the game, ensure your system meets the following requirements:
   
 ### License
 This project is free to use for personal entertainment. Redistribution or modification of the source code is permitted under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+Feel free to contribute or report issues via the [GitHub Issues](https://github.com/rbnshj/rock-paper-pencil-scissor/issues) page.
